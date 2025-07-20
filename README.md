@@ -12,9 +12,11 @@ To enhance the effectiveness of banking product campaigns by uncovering which cu
 
 ## 📁 Project Structure
 
-- `data/` – Raw and cleaned customer campaign data (CSV)
-- `dashboard/` – Power BI report (`.pbix`) and preview image (`.png`)
-- `report/` – PDF file summarizing insights and strategic recommendations
+- `bank_marketing_dta.csv` — Cleaned dataset for analysis
+- `Report.docx` — Full insight documentation with detailed interpretation
+- `Slide_compressed (1).pdf` — Summary slide deck for presentation
+- `dashboard.pdf` — Static version of the Power BI dashboard
+- `README.md` — Project overview and usage guide
 
 ---
 
@@ -52,23 +54,29 @@ To enhance the effectiveness of banking product campaigns by uncovering which cu
 
 ## 🖥️ Dashboard Preview
 
-![Dashboard Screenshot](dashboard/dashboard_preview.png)
+Below is a snapshot of the campaign performance dashboard built with Power BI.
 
-Explore conversion rates by age, job, education, and contact channel interactively.
+![Dashboard Screenshot](909bf8fb-acd3-4ce2-9bad-8e0270d7f731.png)
+
+Key metrics include:
+- Conversion rate by age, education, and job
+- Contact effectiveness (duration, channel)
+- Campaign performance across months and frequency
 
 ---
 
 ## 📌 How to Use
 
-1. View the dashboard in Power BI (`dashboard/bank_marketing_dashboard.pbix`)
-2. Refer to `report/final_insight_recommendation.pdf` for written analysis
-3. Clone this repo or download components for reuse in your own marketing projects
+1. **Explore the analysis summary** in:
+   - `Report.docx` (insight documentation)
+   - `Slide_compressed (1).pdf` (presentation-ready summary)
+2. **Review the Power BI dashboard** in `dashboard.pdf` (static version)
+3. **Access the dataset** via `bank_marketing_dta.csv` for reuse or modeling
+4. Use insights and data to replicate or extend the analysis for other financial product campaigns.
 
 ---
 
 ## 👤 Author
-
 **Phan Thị Định**  
 💼 GitHub: [github.com/yourusername](https://github.com/yourusername)
-
 
