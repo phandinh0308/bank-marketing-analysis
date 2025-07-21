@@ -55,8 +55,8 @@ To enhance the effectiveness of banking product campaigns by uncovering which cu
 ## 🖥️ Dashboard Preview
 
 Below is a snapshot of the campaign performance dashboard built with Power BI.
-
-
+![Dashboard1] (https://github.com/phandinh0308/bank-marketing-analysis/blob/f5c722666d924348cadbd8a0ab3ed0c1712de451/dashboard/dashboard1.png)
+![Dashboard2] (https://github.com/phandinh0308/bank-marketing-analysis/blob/f5c722666d924348cadbd8a0ab3ed0c1712de451/dashboard/dashboard1.png)
 
 Key metrics include:
 - Conversion rate by age, education, and job
