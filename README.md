@@ -78,5 +78,5 @@ Key metrics include:
 
 ## 👤 Author
 **Phan Thị Định**  
-💼 GitHub: [github.com/yourusername](https://github.com/yourusername)
+💼 GitHub: [github.com/phandinh0308](https://github.com/phandinh0308/bank-marketing-analysis)
 
